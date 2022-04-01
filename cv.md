@@ -37,17 +37,17 @@ function solution(number){
 ```
 ## Education
 [x] 2002 - 2007
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Automated systems software***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zaporizhzhya National Technical University
+***Automated systems software***
+Zaporizhzhya National Technical University
 - - -
 [x] 2008 - 2010
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Finance***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zaporizhzhya State Engineering Academy
+***Finance***
+Zaporizhzhya State Engineering Academy
 - - -
 ### Courses:
 [x] 2022
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***The Fundamentals of Software Testing***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QATestLab Training Center
+***The Fundamentals of Software Testing***
+QATestLab Training Center
 ## Languages
 * Russian - native speaker.
 * Ukrainian - native speaker.
