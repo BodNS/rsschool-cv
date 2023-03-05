@@ -27,3 +27,30 @@
 * Git
 
 ---
+
+__Code example:__
+
+***Javascript Mathematician from CODEWARS:*** 
+_You are writing a function that takes two sets of arguments of arbitrary length. The return value will be the sum of the values of all of the arguments._
+
+```
+function calculate(...arg1) {
+  return function (...arg2) {
+    return [...arg1,...arg2].reduce((sum,e) => sum+e, 0);
+  }
+}
+
+```
+---
+
+**Courses:**
+
+The Fundamentals of Software Testing
+
+---
+
+**Languages:**
+* Russian (native)
+* Ukrainian (native)
+* English (level A2-B1)
+* Deutsch (level B1)
